@@ -1,3 +1,4 @@
-2025-06-05 10:41:11,057 - ERROR - url: https://tv.iill.top/m3u/Gather 失败❌, Error: 403, message='Forbidden', url='https://tv.iill.top/m3u/Gather'
-2025-06-05 10:41:37,756 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
-2025-06-05 10:41:37,756 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
+2025-06-07 10:38:16,686 - ERROR - url: https://tv.iill.top/m3u/Gather 失败❌, Error: 403, message='Forbidden', url='https://tv.iill.top/m3u/Gather'
+2025-06-07 10:38:47,201 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
+2025-06-07 10:38:47,202 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
+2025-06-07 10:38:47,202 - ERROR - url: https://www.iyouhun.com/tv/myIPTV/ipv6.m3u 失败❌, Error: Connection timeout to host https://www.iyouhun.com/tv/myIPTV/ipv6.m3u
