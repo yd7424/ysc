@@ -1,1 +1,3 @@
-2025-06-11 10:42:55,197 - ERROR - url: https://tv.iill.top/m3u/Gather 失败❌, Error: 403, message='Forbidden', url='https://tv.iill.top/m3u/Gather'
+2025-06-13 10:43:06,145 - ERROR - url: https://web.banye.tech:7777/tv/hlj.txt 失败❌, Error: Cannot connect to host web.banye.tech:7777 ssl:default [None]
+2025-06-13 10:43:06,145 - ERROR - url: https://web.banye.tech:7777/tvbus/yogurtTv.txt 失败❌, Error: Cannot connect to host web.banye.tech:7777 ssl:default [None]
+2025-06-13 10:43:29,828 - ERROR - url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u 失败❌, Error: 404, message='Not Found', url='https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u'
