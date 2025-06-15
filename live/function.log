@@ -1,3 +1,2 @@
-2025-06-13 10:43:06,145 - ERROR - url: https://web.banye.tech:7777/tv/hlj.txt 失败❌, Error: Cannot connect to host web.banye.tech:7777 ssl:default [None]
-2025-06-13 10:43:06,145 - ERROR - url: https://web.banye.tech:7777/tvbus/yogurtTv.txt 失败❌, Error: Cannot connect to host web.banye.tech:7777 ssl:default [None]
-2025-06-13 10:43:29,828 - ERROR - url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u 失败❌, Error: 404, message='Not Found', url='https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u'
+2025-06-15 10:50:34,181 - ERROR - url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u 失败❌, Error: 404, message='Not Found', url='https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u'
+2025-06-15 10:50:34,639 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
