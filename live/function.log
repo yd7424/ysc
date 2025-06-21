@@ -1,4 +1,5 @@
-2025-06-19 10:43:39,208 - ERROR - url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u 失败❌, Error: 404, message='Not Found', url='https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u'
-2025-06-19 10:43:39,393 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
-2025-06-19 10:44:08,839 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
-2025-06-19 10:44:08,839 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
+2025-06-21 10:38:16,430 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
+2025-06-21 10:38:19,234 - ERROR - url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u 失败❌, Error: 404, message='Not Found', url='https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u'
+2025-06-21 10:38:43,566 - ERROR - url: https://tv.iill.top/m3u/Gather 失败❌, Error: 522, message='<none>', url='https://tv.iill.top/m3u/Gather'
+2025-06-21 10:38:43,567 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
+2025-06-21 10:38:43,568 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
