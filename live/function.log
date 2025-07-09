@@ -1,3 +1,4 @@
-2025-07-07 10:50:40,624 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
-2025-07-07 10:50:40,624 - ERROR - url: http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt 失败❌, Error: 404, message='Not Found', url='http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt'
-2025-07-07 10:51:04,213 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
+2025-07-09 10:47:37,472 - ERROR - url: http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt 失败❌, Error: 404, message='Not Found', url='http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt'
+2025-07-09 10:47:37,626 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
+2025-07-09 10:48:07,474 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
+2025-07-09 10:48:07,475 - ERROR - url: https://web.banye.tech:7777/tvbus/yogurtTv.txt 失败❌, Error: Connection timeout to host https://web.banye.tech:7777/tvbus/yogurtTv.txt
