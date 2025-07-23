@@ -1,2 +1,3 @@
-2025-07-21 11:00:25,334 - ERROR - url: http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt 失败❌, Error: 404, message='Not Found', url='http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt'
-2025-07-21 11:00:25,571 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
+2025-07-23 10:54:41,746 - ERROR - url: https://iptv.b2og.com/txt/fmml_ipv6.txt 失败❌, Error: 403, message='Forbidden', url='https://iptv.b2og.com/txt/fmml_ipv6.txt'
+2025-07-23 10:54:42,241 - ERROR - url: http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt 失败❌, Error: 404, message='Not Found', url='http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt'
+2025-07-23 10:54:42,241 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
