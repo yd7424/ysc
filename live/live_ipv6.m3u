@@ -415,12 +415,6 @@ http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8$IPV6
 #EXTINF:-1 group-title="🍉┃咪咕频道",家庭影院咪咕
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8$IPV6
-#EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8$IPV6•线路1
-#EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8$IPV6•线路2
-#EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8$IPV6•线路3
 #EXTINF:-1 group-title="🐟┃少儿频道",黑莓动画
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8$IPV6•线路1
 #EXTINF:-1 group-title="🐟┃少儿频道",黑莓动画

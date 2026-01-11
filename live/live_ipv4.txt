@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-01-09,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
+2026-01-11,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 🍎┃广东频道,#genre#
 广州综合,http://php.jdshipin.com:8880/gztv.php$IPV4•线路1
 广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8$IPV4•线路2
@@ -770,12 +770,11 @@ TVBS欢乐,http://litv.zapi.us.kg/$IPV4
 中天娱乐,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8$IPV4
 中天综合台,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8$IPV4
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8$IPV4
-ROCK Action,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8$IPV4
+ROCK Action,http://mayi.home.kg/smt.php$IPV4
 TVB星河,http://r.jdshipin.com/sXuuD$IPV4•线路1
 TVB星河,http://r.jdshipin.com/Voac4$IPV4•线路2
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8$IPV4
 AMC電影台,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8$IPV4
-Animax,http://180.213.174.225:9901/tsfile/live/1037_1.m3u8$IPV4
 美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8$IPV4
 美亚电影粤,http://ali.hlspull.yximgs.com/live/awei_mydy.flv$IPV4
 HOYTV,http://r.jdshipin.com/sFw4S$IPV4
@@ -804,7 +803,6 @@ Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8$IPV4
 靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8$IPV4
 星卫娱乐,http://43.138.170.29:35455/douyu/9403712$IPV4
 SUPER Kids Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140$IPV4
-Channel 5 HD,http://180.213.174.225:9901/tsfile/live/1041_1.m3u8$IPV4
 東森电影国,http://cfss.cc/cdn/hy/21059581.m3u8$IPV4•线路1
 東森电影国,http://www.douzhicloud.site:35455/huya/21059581$IPV4•线路2
 8-度空间国,https://cdn6.163189.xyz/163189/8tv$IPV4
@@ -841,10 +839,35 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8$IPV4•线路2
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8$IPV4•线路1
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8$IPV4•线路2
 🍉┃咪咕频道,#genre#
-CGT西语咪咕,https://0472.org/hls/cgtnx.m3u8$IPV4
-CGT阿语咪咕,https://0472.org/hls/cgtna.m3u8$IPV4
-CGT法语咪咕,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8$IPV4•线路1
-CGT法语咪咕,https://0472.org/hls/cgtnf.m3u8$IPV4•线路2
+CCTV-01咪咕,http://j.s.bkpcp.top/jj/cctv1$IPV4•线路1
+CCTV-01咪咕,http://t.061899.xyz/tl/tl.php$IPV4•线路2
+CCTV-02咪咕,http://j.s.bkpcp.top/jj/cctv2$IPV4
+CCTV-03咪咕,http://j.s.bkpcp.top/jj/cctv3$IPV4
+CCTV-04咪咕,http://j.s.bkpcp.top/jj/cctv4$IPV4
+CCTV-05咪咕,http://j.s.bkpcp.top/jj/cctv5$IPV4
+CCTV-06咪咕,http://j.s.bkpcp.top/jj/cctv6$IPV4
+CCTV-07咪咕,http://j.s.bkpcp.top/jj/cctv7$IPV4
+CCTV-08咪咕,http://j.s.bkpcp.top/jj/cctv8$IPV4
+CCTV-09咪咕,http://j.s.bkpcp.top/jj/cctv9$IPV4
+CCTV-10咪咕,http://j.s.bkpcp.top/jj/cctv10$IPV4
+CCTV-11咪咕,http://j.s.bkpcp.top/jj/cctv11$IPV4
+CCTV-12咪咕,http://j.s.bkpcp.top/jj/cctv12$IPV4
+CCTV-13咪咕,http://j.s.bkpcp.top/jj/cctv13$IPV4
+CCTV-14咪咕,http://j.s.bkpcp.top/jj/cctv14$IPV4
+CCTV-15咪咕,http://j.s.bkpcp.top/jj/cctv15$IPV4
+CCTV-16咪咕,http://j.s.bkpcp.top/jj/cctv16$IPV4
+CCTV-17咪咕,http://j.s.bkpcp.top/jj/cctv17$IPV4
+CCTV4欧洲咪咕,http://go.bkpcp.top/mg/cctv4o$IPV4•线路1
+CCTV4欧洲咪咕,http://j.s.bkpcp.top/jj/cctv4o$IPV4•线路2
+CCTV4美洲咪咕,http://go.bkpcp.top/mg/cctv4m$IPV4•线路1
+CCTV4美洲咪咕,http://j.s.bkpcp.top/jj/cctv4m$IPV4•线路2
+CCTV-5+咪咕,http://j.s.bkpcp.top/jj/cctv5p$IPV4
+CGT西语咪咕,http://go.bkpcp.top/mg/cgtne$IPV4•线路1
+CGT西语咪咕,http://j.s.bkpcp.top/jj/cgtne$IPV4•线路2
+CGT阿语咪咕,http://go.bkpcp.top/mg/cgtna$IPV4•线路1
+CGT阿语咪咕,http://j.s.bkpcp.top/jj/cgtna$IPV4•线路2
+CGT法语咪咕,http://go.bkpcp.top/mg/cgtnf$IPV4•线路1
+CGT法语咪咕,http://j.s.bkpcp.top/jj/cgtnf$IPV4•线路2
 家庭影院咪咕,http://gat.bkpcp.top/ymg.php$IPV4•线路1
 家庭影院咪咕,http://goo.bkpcp.top/mg/jtyy$IPV4•线路2
 家庭影院咪咕,http://eastscreen.tv/ooooo.php$IPV4•线路3
@@ -857,12 +880,13 @@ CGT法语咪咕,https://0472.org/hls/cgtnf.m3u8$IPV4•线路2
 家庭影院咪咕,http://113.195.172.192:808/hls/113/index.m3u8$IPV4•线路10
 家庭影院咪咕,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$IPV4•线路11
 动作电影咪咕,https://yylunbo.ottiptv.cc/yy/1382736823$IPV4
-陕西卫视咪咕,http://goo.bkpcp.top/mg/sxws$IPV4•线路1
-陕西卫视咪咕,http://dsj.motem.top:8880/bptv/10000100000000050000000003887404.m3u8$IPV4•线路2
-陕西卫视咪咕,https://www.freetv.top/migu/738910838.m3u8$IPV4•线路3
-陕西卫视咪咕,https://stream1.freetv.fun/shan-xi-wei-shi-117.m3u8$IPV4•线路4
-陕西卫视咪咕,http://go.bkpcp.top/mg/sxws$IPV4•线路5
-陕西卫视咪咕,http://112.27.235.94:8000/hls/43/index.m3u8$IPV4•线路6
+东方卫视咪咕,http://j.s.bkpcp.top/jj/dfws$IPV4
+江苏卫视咪咕,http://j.s.bkpcp.top/jj/jsws$IPV4
+陕西卫视咪咕,http://go.bkpcp.top/mg/sxws$IPV4•线路1
+陕西卫视咪咕,http://j.s.bkpcp.top/jj/sxws$IPV4•线路2
+湖北卫视咪咕,http://j.s.bkpcp.top/jj/hubws$IPV4
+江西卫视咪咕,http://j.s.bkpcp.top/jj/jxws$IPV4
+海南卫视咪咕,http://j.s.bkpcp.top/jj/hinws$IPV4
 🐟┃少儿频道,#genre#
 黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8$IPV4•线路1
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8$IPV4•线路2
