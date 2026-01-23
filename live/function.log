@@ -1,2 +1,2 @@
-2026-01-21 10:52:18,015 - ERROR - url: https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u 失败❌, Error: 404, message='Not Found', url='https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u'
-2026-01-21 10:52:18,464 - ERROR - url: https://bc.188766.xyz/?url=https://live.iill.top&mima=bingcha1130 失败❌, Error: 403, message='Forbidden', url='https://bc.188766.xyz/?url=https://live.iill.top&mima=bingcha1130'
+2026-01-23 10:52:26,476 - ERROR - url: https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u 失败❌, Error: 404, message='Not Found', url='https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u'
+2026-01-23 10:52:26,552 - ERROR - url: https://bc.188766.xyz/?url=https://live.iill.top&mima=bingcha1130 失败❌, Error: 403, message='Forbidden', url='https://bc.188766.xyz/?url=https://live.iill.top&mima=bingcha1130'
